@@ -1,0 +1,6 @@
+.lista-menu__item {
+    padding: 1em;
+    background-color: var(--branco);
+    font-size: 16px;
+    font-weight: 400;
+}

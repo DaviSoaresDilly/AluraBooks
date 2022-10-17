@@ -1,0 +1,7 @@
+.lista-menu__titulo {
+    padding: 1em;
+    color: var(--laranja);
+    background-color: var(--branco);
+    font-size: 16px;
+    font-weight: 700;
+}
